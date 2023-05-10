@@ -1,6 +1,6 @@
 
 <picture>
-<img alt="" src="https://www.devuty.altervista.org/gh/cpu_state/cpu_state_logo.png" align="left">
+<img alt="" src="https://www.devuty.altervista.org/gh/cpu_state/cpu_stateLogo.png" align="left">
 </picture>
 
 # Cpu state
@@ -30,6 +30,8 @@ For example to change the order just change perc,freq,temp to freq,perc,temp or 
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/cpu_state.png">
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/2p.png">
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/1p.png">
+<br>
+<br>
 <br>
 <br>
 Hovering the mouse over the indicators shows the numerical value of the moment.
