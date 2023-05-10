@@ -27,7 +27,7 @@ You can also choose both the sequence of the indicators (the default is perc,fre
 For example to change the order just change perc,freq,temp to freq,perc,temp or to show only cpu usage and temperature change to perc,temp
 <br>
 <br>
-<img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/cpu_state.png">
+<img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/cpu_state2.png">
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/2p.png">
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/1p.png">
 <br>
