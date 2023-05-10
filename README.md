@@ -31,18 +31,19 @@ For example to change the order just change perc,freq,temp to freq,perc,temp or 
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/2p.png">
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/1p.png">
 <br>
+<br>
 Hovering the mouse over the indicators shows the numerical value of the moment.
 <br>
 <br>
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/perc.png">
-<br>
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/freq.png">
-<br>
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/temp.png">
 <br>
 <br>
 By clicking the right mouse button over the indicators, the application is closed.
 The middle button restarts the application. This is useful in case the system has been idle.
+<br>
+<br>
 ## Installation
 Copy the executable file to any folder dedicated to it. In this folder the configuration files `.init` will be created.<br>
 You can create your own [Desktop Entry].
