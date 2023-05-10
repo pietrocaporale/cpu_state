@@ -6,7 +6,7 @@
 # Cpu state
 
 ### _Python application to monitor CPU status in real time_
-## allows you to monitor usage, frequency and temperature
+### allows you to monitor usage, frequency and temperature
 
 <br>
 
