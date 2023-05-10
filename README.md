@@ -28,11 +28,8 @@ For example to change the order just change perc,freq,temp to freq,perc,temp or 
 <br>
 <br>
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/cpu_state.png">
-<br>
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/2p.png">
-<br>
 <img align="left" src="https://www.devuty.altervista.org/gh/cpu_state/1p.png">
-<br>
 <br>
 Hovering the mouse over the indicators shows the numerical value of the moment.
 <br>
